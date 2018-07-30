@@ -1,0 +1,2 @@
+# memes-sam
+😎😎😎😎😎GERADOR AUTOMATICO DE MEMES DA SAM O SAM EH BRABO😎😎😎😎😎
