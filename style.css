@@ -1,0 +1,36 @@
+#div-imagens{
+    margin-left: 10px;
+    width: 200px;
+}
+#generalp2{
+    margin-top: -300px;
+    margin-left: 240px;
+    width: 70%;
+}
+#imagememegerada{
+    width: 500px;
+}
+.imagens-sam{
+    width: 200px;
+}
+.imagens-sam:hover{
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+}
+#nav-sam{
+    margin-top: 5%;
+    width: 90%;
+    min-height: 50px;
+    background-color: blue;
+    margin-bottom: -1%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+#general-sam{
+    width: 90%;
+    min-height: 500px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: gray;
+}
