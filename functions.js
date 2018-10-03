@@ -16,3 +16,9 @@ function Irineu(){
     var imagem= document.getElementById("imagememegerada")
     imagem.src='./imagens/maxresdefault.jpg'
 }
+
+function escrever(){
+	console.log(document.getElementById("input-text").value)
+    document.getElementById("text-header").innerHTML=(document.getElementById("input-text").value)
+
+}
